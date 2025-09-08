@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4b26314-b0a8-416e-b043-c2a1f378d540" name="Changes" comment="tarea semana 12">
+      <change beforePath="$PROJECT_DIR$/semana12/2025_FUNDAMENTOS-DE-LA-PROGRAMACION-_GABRIELA-_CANGAS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana12/Arreglos multidimensionales.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "semana11"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2025_FUNDAMENTOS_DE_LA_PROGRAMACION__GABRIELA__CANGAS$Arreglos_multidimensionales.coverage" NAME="Arreglos multidimensionales Coverage Results" MODIFIED="1757329473349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/semana12" />
+    <SUITE FILE_PATH="coverage/2025_FUNDAMENTOS_DE_LA_PROGRAMACION__GABRIELA__CANGAS$programa1.coverage" NAME="programa1 Coverage Results" MODIFIED="1756715880316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2025_FUNDAMENTOS_DE_LA_PROGRAMACION__GABRIELA__CANGAS$programa2.coverage" NAME="programa2 Coverage Results" MODIFIED="1756715532419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
