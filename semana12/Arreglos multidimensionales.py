@@ -194,7 +194,7 @@ temperaturas = (
     ],
 
     # Calcular el promedio de temperaturas para cada ciudad y semana
-    "Ciue") = var = ["Ciudad 1", "Ciudad 2", "Ciudad 3", "Ciudad 4"]
+    'ciudades') = ["Ciudad 1", "Ciudad 2", "Ciudad 3", "Ciudad 4"]
 for ciudad_idx, ciudad in enumerate(temperaturas):
     for semana_idx, semana in enumerate(ciudad):
         # noinspection PyTypeChecker
